@@ -1,2 +1,5 @@
 # firstjavaapp
-simplified java try outs source code
+
+This is my simple java project
+Created by Anshumaan
+
