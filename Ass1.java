@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ass1 {
 	//This is my changes
-	
+	//latest changes
 	public static void main(String[] args) {
 		Connection con=null;
 		Statement smt=null;
